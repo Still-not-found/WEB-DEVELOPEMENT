@@ -18,7 +18,8 @@ body,html{
     color: #0f54ea;
     font-family: "Open Sans", sans-serif;
     background: #31cdfd;
-    background: linear-gradient(45deg, #04c46a 0%, #0c4fdf 60%, #09ebeb 100%);
+    background: linear-gradient(45deg, #5ae6a4 0%, #3261c7 60%, #09ebeb 100%);
+   
 }
 .center {
     position: absolute;
